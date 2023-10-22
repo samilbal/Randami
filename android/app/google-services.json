@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "218520259539",
+    "project_id": "randami-ccb4a",
+    "storage_bucket": "randami-ccb4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218520259539:android:1147a3c1fa51c88c62bd26",
+        "android_client_info": {
+          "package_name": "com.randami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218520259539-gck3gqkm2ceugo4dn71bcslrnmpfvbmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.randami",
+            "certificate_hash": "cfca3c8fa792b66e6b07891c7296dadb8dacf5c1"
+          }
+        },
+        {
+          "client_id": "218520259539-257vpi0b0pnjcga7u6k9fg11p6e92q07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfp1_SGI9-wWcCjkv5KBVAESHTGIzLiUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218520259539-257vpi0b0pnjcga7u6k9fg11p6e92q07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

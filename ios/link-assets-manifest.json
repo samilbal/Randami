@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/PixelifySans-Bold.ttf",
+      "sha1": "5a099af48ac82abb545b2aa6e18196ee600bdbe9"
+    },
+    {
+      "path": "src/assets/fonts/PixelifySans-Medium.ttf",
+      "sha1": "a263d2ddd97921f3c758744eee58d1fe2249dbd2"
+    },
+    {
+      "path": "src/assets/fonts/PixelifySans-Regular.ttf",
+      "sha1": "6823aad854133e5984858ddcb5c8b310a856a850"
+    },
+    {
+      "path": "src/assets/fonts/PixelifySans-SemiBold.ttf",
+      "sha1": "6d367047aad93dd5c6d9ddaf7ad96076d67bea2c"
+    },
+    {
+      "path": "src/assets/fonts/Teko-Bold.ttf",
+      "sha1": "751d95bcec982b2c45bafc9f36d08d9081d5a9bb"
+    },
+    {
+      "path": "src/assets/fonts/Teko-Light.ttf",
+      "sha1": "53621aab1507362f53d4ba28b8819b58ec3f5ade"
+    },
+    {
+      "path": "src/assets/fonts/Teko-Medium.ttf",
+      "sha1": "3edafd3dbb5ed9fb65888b5cf0430175274af80c"
+    },
+    {
+      "path": "src/assets/fonts/Teko-Regular.ttf",
+      "sha1": "8d5a68253f7fe13bee6a7fbd1a015347de818c8b"
+    },
+    {
+      "path": "src/assets/fonts/Teko-SemiBold.ttf",
+      "sha1": "31ed3c5dfa9ff7ef4b9b615f7ebe21a6be376efe"
+    },
+    {
+      "path": "src/assets/fonts/YatraOne-Regular.ttf",
+      "sha1": "b4a6a088070f0e7ba3829ce177fab32dd255be19"
+    }
+  ]
+}
